@@ -104,10 +104,9 @@ Kubernetes (YAML)
 
 This project demonstrates a simple yet effective microservices-based architecture using Docker and Kubernetes. It includes a basic frontend served via Nginx and a Node.js-based backend API. 
 
-All deployment configurations using Kubernetes are provided in the `k8s/` folder, making it easy to set up and run in any Kubernetes-supported environment. No installation is needed for Docker or Kubernetes during evaluation — simply review the configuration files for structure and correctness.
+All deployment configurations using Kubernetes are provided in the `k8s/` folder, making it easy to set up and run in any Kubernetes-supported environment. 
 
 Feel free to explore, suggest improvements, or extend this project. 🚀
 
 ---
 
-> ✨ Made with 💻 by [Devi SRI]
